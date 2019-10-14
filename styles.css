@@ -1,0 +1,16 @@
+* {
+    margin: 0; 
+    box-sizing: border-box; 
+}
+body, html {
+    font-size: 16px; 
+}
+.article {
+    border: 1px #ccc solid;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+}
+span {
+    color: grey; 
+    font-size: .9rem; 
+}
